@@ -2,7 +2,7 @@
 - 👀 I’m interested in music and self development
 - 🌱 I’m currently learning UX/UI design basics
 - 💞️ I’m not looking to collaborate currently
-- 📫 You can reach me on Telegram: fiormaina or email: fomina.irina.tver@gmail.com
+- 📫 You can reach me on Telegram: icmuaun or email: fomina.irina.tver@gmail.com
 
 <!---
 fiormaina/fiormaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
